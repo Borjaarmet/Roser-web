@@ -1,0 +1,4 @@
+.imageLogo {
+  mix-blend-mode: multiply;
+  filter: brightness(1.1);
+}
